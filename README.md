@@ -19,3 +19,8 @@ The project aims to assess sitting and standing postures using ArUco markers as 
     - OpenCV (ArUco marker detection)
     - SQLite3 (database management)
     - Streamlit (front-end interface)
+
+ ## Note: Senior Project (Work in Progress)
+
+This project is part of my senior project and is still a work in progress. Contributions and feedback are appreciated as the project continues to evolve.
+
